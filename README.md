@@ -38,7 +38,7 @@ Community tools and open-source projects created by platform users.
 
 Enhance your PCD operations and day-to-day management with custom browser extensions.
 
-- [PCD Console Helper](extensions/README.md) 🟢 - A Chrome extension to paste arbitrary text into a noVNC remote console. Built specifically for PCD, this solves the long-standing issue of copy/pasting complex passwords or long commands directly into console sessions!
+- [PCD Console Helper](extensions/pcd-console-helper.md) 🟢 - A Chrome extension to paste arbitrary text into a noVNC remote console. Built specifically for PCD, this solves the long-standing issue of copy/pasting complex passwords or long commands directly into console sessions!
 
 ---
 > **About the AI:** This repository and its initial structures were organized for a modern, approachable experience by an AI programming assistant.
