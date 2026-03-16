@@ -16,7 +16,7 @@ All of our tools and scripts feature "Vibe Checks" to indicate their production-
 ## 📋 Contents
 
 - [💻 Compute Scripts](#-compute-scripts)
-- [🔗 External Tools & Projects](#-external-tools--projects)
+- [�️ Security](#️-security)
 - [🧩 Extensions](#-extensions)
 
 ---
@@ -27,12 +27,11 @@ Automation scripts for configuring and managing the compute tier.
 
 - [Node Prep Script](compute/node-prep.md) 🟢 - Prepare your nodes with exactly the right vibes before integrating them into a PCD cluster.
 
-## 🔗 External Tools & Projects
+## �️ Security
 
-Community tools and open-source projects created by platform users.
+Guides, scripts, and resources for hardening your environments.
 
-- [Platform9 CLI (pf9ctl)](https://github.com/platform9/pf9ctl) - The official open-source Platform9 CLI tool for managing PCD clusters at scale.
-- [My Other Cool Tool](https://github.com/yourusername/repo-name) 🟡 - A brief description of what this external tool does and why it's cool!
+- [PCD Hardening Guide](https://github.com/skizlave/pcd-hardening-guide) 🟢 - A comprehensive guide and resources for securing and hardening Platform9 Private Cloud Director environments.
 
 ## 🧩 Extensions
 
